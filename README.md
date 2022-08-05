@@ -1,1 +1,1 @@
-# stepik_language_test
+Тестовый проект курса "Автоматизация тестирования с помощью Selenium и Python"
